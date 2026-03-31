@@ -3,7 +3,8 @@
 Tracking my path to becoming a researcher.
 
 ## Projects
-1. Stock Correlation Analyzer (In Progress)
+1. 8 puzzle using A* algorithm
+2. Stock Correlation Analyzer (In Progress)
 
 ## Skills
 - Python, Pandas, NumPy, C++
